@@ -1,8 +1,10 @@
 # Hey there! 👋  
-I'm a student of Automation and Robotics at Warsaw University of Technology.  
+I'm a student of Automation and Robotics at Warsaw University of Technology 🤖 Given the range of topics in my major, I have worked on projects related to applications, databases, robotics and automation. I want to expand into business intelligence and learn the ins and outs of project management.
 
 ## Projects:
 - 📌 [Task-Manager-App](https://github.com/ZojaHordynska/Task-Manager-App) - Java desktop app for task management created with my friends for a group project at WUT. I was responsible for database setup and model as well as implementation of CRUD operations using Hibernate.
 - 📌 [Database-Project](https://github.com/ZojaHordynska/Database-Project) - Database group project with SQL scripts for inserting data and performing operations using triggers, procedures and functions. Project includes a Java app (which I developed) for testing functionalities using Hibernate.
-- 📌 [Robot-Control](https://github.com/ZojaHordynska/Robot-Control) - Multiple projects for Robots' Anatomy subject at WUT where we were controling an actual robotic manipulator. The projects include a tower building task using forward and inverse kinematics (implemented using ROS 2 framework) as well as visualization of the robot in RViz. Lots of diagrams of system architecture are also to be found there 😉
-- 📌 [Robot-Simulation](https://github.com/ZojaHordynska/Robot-Simulation) - Projects for Robot Control and Simulation subject at WUT. 
+- 📌 [Robot-Control](https://github.com/ZojaHordynska/Robot-Control) - Multiple projects for Robots' Anatomy subject at WUT where we were controlling an actual robotic manipulator. The projects include a tower building task using forward and inverse kinematics (implemented using ROS 2 framework) as well as visualization of the robot in RViz. Lots of diagrams of system architecture are also to be found there 😉
+- 📌 [Robot-Simulation](https://github.com/ZojaHordynska/Robot-Simulation) - Projects for Robot Control and Simulation subject at WUT. Using ROS 2, RViz and Gazebo in order to visualize and navigate a robot in a simulation environment and map it using SLAM.
+- 📌 [Artificial-Intelligence](https://github.com/ZojaHordynska/Artificial-Intelligence) - Projects that cover a variety of AI topics like machine learning, decision trees, evolutionary algorithms and naive bayes.
+- 📌 [Travel-Planner-App](https://github.com/ZojaHordynska/Travel-Planner-App) - Group project at WUT - we developed an app for managing and planning travels using Django and React. I was in charge of implementing business functionalities on the backend and creating the database model.
